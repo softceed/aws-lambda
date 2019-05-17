@@ -1,2 +1,4 @@
 # aws-lambda
-Beispielprojekt für einen AWS-Lambda-Service mit Java
+Beispielprojekt für einen einfchen AWS-Lambda-Service mit Java
+
+Bauen mit `maven clean install`
